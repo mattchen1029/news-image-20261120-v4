@@ -32,7 +32,7 @@ LEADS = [
     {
         "tag": "UKRAINE - WAR",
         "head": "Missiles rain on Kyiv; Poland hit too",
-        "body": "Russia fired 3 missiles and 148 drones; 9 killed in Kyiv, 3 bridges hit. Two missiles fell in Poland.",
+        "body": "Russia fired 111 missiles and 404 drones; 8 killed in Kyiv, 3 bridges hit. Two missiles and a drone fell in Poland.",
         "art": "kyiv",
     },
     {
@@ -53,7 +53,7 @@ SECONDARY = [
     ("MEXICO", "Cartel boss captured in Sinaloa",
      "Mexican forces seized FBI most-wanted fugitive Fausto Isidro Meza Flores in Guasave, Sinaloa."),
     ("INDIA", "Cyclone Akvan hits Odisha",
-     "Akvan made landfall near Gopalpur with 70-80 km/h winds; 440,000 people were evacuated."),
+     "Akvan made landfall near Gopalpur with 70-80 km/h winds; 370,000 people were evacuated."),
     ("CHINA", "Trump, Xi and Putin meet in Shenzhen",
      "A trilateral summit at APEC ended with a 'peace declaration' but little concrete progress."),
     ("EUROPE", "UK and EU strike reset deal",
@@ -73,14 +73,14 @@ SECONDARY = [
 NUMBERS = [
     ("-3.7%", "S&P 500, 7th straight fall"),
     ("-14%", "Nvidia, to $125.53"),
-    ("440,000", "evacuated in Odisha"),
-    ("148", "drones fired at Ukraine"),
+    ("370,000", "evacuated in Odisha"),
+    ("404", "drones fired at Ukraine"),
 ]
 
 TIMELINE = [
     ("02:30", "Akvan landfall, Gopalpur"),
     ("03:00", "Russian barrage hits Kyiv"),
-    ("13:00", "COP31 draft drops fossil fuels"),
+    ("13:00", "COP31 deadlocked on fossil fuels"),
     ("18:00", "Cartel boss seized, Sinaloa"),
     ("21:00", "Wall St closes: S&P -3.7%"),
 ]
